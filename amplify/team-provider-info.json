@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homemobileapp-dev-01a45-authRole",
+      "UnauthRoleArn": "arn:aws:iam::717875947258:role/amplify-homemobileapp-dev-01a45-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::717875947258:role/amplify-homemobileapp-dev-01a45-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-homemobileapp-dev-01a45-deployment",
+      "UnauthRoleName": "amplify-homemobileapp-dev-01a45-unauthRole",
+      "StackName": "amplify-homemobileapp-dev-01a45",
+      "StackId": "arn:aws:cloudformation:eu-west-1:717875947258:stack/amplify-homemobileapp-dev-01a45/2eb9a620-234c-11ef-b096-0a1a8b7b2651",
+      "AmplifyAppId": "dor7ygft9025r"
+    },
+    "categories": {
+      "auth": {
+        "homemobileapp56973f39": {
+          "userPoolId": "eu-west-1_kWEFldSMI",
+          "userPoolName": "HomeAppUp-dev",
+          "webClientId": "49o27r0enpaoaf1f36eiet6s2a",
+          "nativeClientId": "6uide325kimk3l1ud1hi2objj"
+        }
+      }
+    }
+  }
+}

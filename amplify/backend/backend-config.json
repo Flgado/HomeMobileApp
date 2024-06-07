@@ -1,0 +1,45 @@
+{
+  "auth": {
+    "homemobileapp56973f39": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_homemobileapp56973f39_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homemobileapp56973f39"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homemobileapp56973f39_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homemobileapp56973f39"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homemobileapp56973f39_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homemobileapp56973f39"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homemobileapp56973f39_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homemobileapp56973f39"
+        }
+      ]
+    }
+  }
+}
