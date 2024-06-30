@@ -15,7 +15,7 @@ const ScreenHeaderBtn: React.FC<ScreenHeaderBtnProps> = ({ iconUrl, dimension, h
   return (
     <TouchableOpacity style={styles.btnContainer} onPress={handlePress}>
       <Image
-        src={'../../../assets/images/kemal.jpg'}
+        source={iconUrl}
         resizeMode='cover'
         style={btnImg(dimension)}
       />
