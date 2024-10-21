@@ -11,3 +11,7 @@ A simple mobile app built with React Native.
 # Blog Post
 
 This app is discussed in detail in the [related blog post](https://flgado.github.io/blog/posts/post_1/my-first-post/), where I explain how to quickly deploy a serverless API using AWS SAM (Serverless Application Model), and implement authentication with AWS Cognito in this mobile app.
+
+
+# Notes
+- Copy config.example.ts to config.ts and add your endpoints to this file
