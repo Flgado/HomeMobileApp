@@ -1,6 +1,6 @@
 {
   "auth": {
-    "homemobileapp56973f39": {
+    "homemobileappeb498099": {
       "customAuth": false,
       "dependsOn": [],
       "providerPlugin": "awscloudformation",
@@ -9,35 +9,35 @@
     }
   },
   "parameters": {
-    "AMPLIFY_auth_homemobileapp56973f39_nativeClientId": {
+    "AMPLIFY_auth_homemobileappeb498099_nativeClientId": {
       "usedBy": [
         {
           "category": "auth",
-          "resourceName": "homemobileapp56973f39"
+          "resourceName": "homemobileappeb498099"
         }
       ]
     },
-    "AMPLIFY_auth_homemobileapp56973f39_userPoolId": {
+    "AMPLIFY_auth_homemobileappeb498099_userPoolId": {
       "usedBy": [
         {
           "category": "auth",
-          "resourceName": "homemobileapp56973f39"
+          "resourceName": "homemobileappeb498099"
         }
       ]
     },
-    "AMPLIFY_auth_homemobileapp56973f39_userPoolName": {
+    "AMPLIFY_auth_homemobileappeb498099_userPoolName": {
       "usedBy": [
         {
           "category": "auth",
-          "resourceName": "homemobileapp56973f39"
+          "resourceName": "homemobileappeb498099"
         }
       ]
     },
-    "AMPLIFY_auth_homemobileapp56973f39_webClientId": {
+    "AMPLIFY_auth_homemobileappeb498099_webClientId": {
       "usedBy": [
         {
           "category": "auth",
-          "resourceName": "homemobileapp56973f39"
+          "resourceName": "homemobileappeb498099"
         }
       ]
     }

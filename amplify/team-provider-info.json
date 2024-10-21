@@ -13,11 +13,11 @@
     },
     "categories": {
       "auth": {
-        "homemobileapp56973f39": {
-          "userPoolId": "eu-west-1_kWEFldSMI",
-          "userPoolName": "HomeAppUp-dev",
-          "webClientId": "49o27r0enpaoaf1f36eiet6s2a",
-          "nativeClientId": "6uide325kimk3l1ud1hi2objj"
+        "homemobileappeb498099": {
+          "userPoolId": "eu-west-1_E2sbxRVot",
+          "userPoolName": "homeapp-UserPool",
+          "webClientId": "72pe87ha1sm73vraqa6scq89pk",
+          "nativeClientId": "72pe87ha1sm73vraqa6scq89pk"
         }
       }
     }

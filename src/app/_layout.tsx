@@ -7,6 +7,5 @@ export default function RootLayout () {
     return (
         <Stack initialRouteName="home"
         screenOptions={{ headerTitle: ''}}/>
-          
       )
 }
